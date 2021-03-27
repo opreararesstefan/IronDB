@@ -1,0 +1,11 @@
+C:\Workspace\PRO\IronDB\IronDB\obj\Debug\IronDB.csprojAssemblyReference.cache
+C:\Workspace\PRO\IronDB\IronDB\obj\Debug\IronDB.FirstDialog.resources
+C:\Workspace\PRO\IronDB\IronDB\obj\Debug\IronDB.Properties.Resources.resources
+C:\Workspace\PRO\IronDB\IronDB\obj\Debug\IronDB.csproj.GenerateResource.cache
+C:\Workspace\PRO\IronDB\IronDB\obj\Debug\IronDB.csproj.CoreCompileInputs.cache
+C:\Workspace\PRO\IronDB\IronDB\bin\Debug\IronDB.exe.config
+C:\Workspace\PRO\IronDB\IronDB\bin\Debug\IronDB.exe
+C:\Workspace\PRO\IronDB\IronDB\bin\Debug\IronDB.pdb
+C:\Workspace\PRO\IronDB\IronDB\obj\Debug\IronDB.exe
+C:\Workspace\PRO\IronDB\IronDB\obj\Debug\IronDB.pdb
+C:\Workspace\PRO\IronDB\IronDB\obj\Debug\IronDB.Components.SecondDialog.resources
